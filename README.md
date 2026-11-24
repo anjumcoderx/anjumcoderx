@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Anjum Khan 👋
 
-<!--
-**anjumcoderx/anjumcoderx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer | Creative Thinker
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building beautiful, responsive and user-friendly websites.
+
+🚀 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Python
+
+🌸 About Me
+
+- 💻 5+ Years of Coding & Learning
+- 🎨 Love creating digital experiences
+- 🌱 Always learning new technologies
+- 🤝 Open to Jobs & Freelance Projects
+
+📂 My Projects
+
+- 🎀 Birthday Card
+- 🚗 Car Lover Website
+- 🖼️ JavaScript Image Editor
+- 🌐 Personal Portfolio Website
+
+🤝 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/anjum-khan-29641a32b
+- GitHub: https://github.com/anjumcoderx
+
+✨ Code • Create • Inspire ✨￼Enter
